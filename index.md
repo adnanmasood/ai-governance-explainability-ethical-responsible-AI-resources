@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## AI Governance, Explainability, and Fairness Related Resources
 
 You can use the [editor on GitHub](https://github.com/adnanmasood/awesome-ai-governance-explainability-ethical-responsible-AI-resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
